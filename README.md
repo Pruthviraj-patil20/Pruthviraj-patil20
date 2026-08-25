@@ -6,7 +6,7 @@
 
 **About Me**
 
-*I'm Khushi Munna Kumar Agarwal, a B.Tech Computer Science student at PW Institute of Innovation (PW IOI), Pune.
+*I'm **Pruthviraj Anil Patil**, a B.Tech Computer Science student at PW Institute of Innovation (PW IOI), Pune.
 
 I'm passionate about building modern web applications, solving challenging problems, and contributing to open source. I'm interested in developing innovative technology solutions and working towar[...]
 
