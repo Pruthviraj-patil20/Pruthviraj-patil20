@@ -8,7 +8,7 @@
   <img src="./github-banner.png" width="100%" alt="Pruthviraj Patil GitHub Banner">
 </p>
 
-# Hi, I'm Pruthviraj Anil Patil 👋
+# About Me
 
 I'm a B.Tech Computer Science student at NxtWave Of Advanced Technologies (NIAT), Pune. I enjoy building modern web applications, solving challenging problems, and contributing to open-source projects. I focus on practical, real-world solutions and continuously learning new technologies.
 
