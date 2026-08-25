@@ -4,7 +4,7 @@
   <img src="./github-banner.pngc" width="100%" alt="Pruthviraj Patil GitHub Banner">
 </p>
 
-**About Me**
+***About Me***
 
 *I'm **Pruthviraj Anil Patil**, a B.Tech Computer Science student at PW Institute of Innovation (PW IOI), Pune.
 
