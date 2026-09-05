@@ -40,7 +40,7 @@ Below are a few projects and contributions I’m proud of:
 ## Notes / How to use this README
 - Replace the placeholder project entries with real project names and links.
 - If you use GitHub stats or badges, add them below the intro banner.
-- If you'd like, I can add sections for education, certifications, or a contributions timeline.
+- If you'd like, I can add sections for education, certifications, or a contributions timeline.....
 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ed9ac48e-a0d7-40d1-86ad-c07140b744c6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
